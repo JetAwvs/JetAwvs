@@ -1,6 +1,6 @@
 <h1 align="center"> <a href=""> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您今天愉快!&center=true&size=27"> </a> </h1>
-<a href="https://github.com/HIM198/computer-vision-in-action">
-    <img align="right" src="https://komarev.com/ghpvc/?username=HIM198&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+<a href="https://github.com/JetAwvs/computer-vision-in-action">
+    <img align="right" src="https://komarev.com/ghpvc/?username=JetAwvs&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
  
 ## Hi, 👋  I'm <a href="http://welcome.voup.cn">JetAwvs</a>
@@ -15,7 +15,7 @@
   1. empty
   2. empty
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN]
-- 💬 Be free to ask me about anything [here]([https://github.com/HIM198/HIM198/issues](https://github.com/issues)).
+- 💬 Be free to ask me about anything [here]([https://github.com/JetAwvs/JetAwvs/issues](https://github.com/issues)).
  
 ---
 </details>
@@ -61,20 +61,20 @@
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://github.com/HIM198">
-    <img src="https://badges.strrl.dev/visits/HIM198/HIM198?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/JetAwvs">
+    <img src="https://badges.strrl.dev/visits/JetAwvs/JetAwvs?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/HIM198">
-    <img src="https://badges.strrl.dev/years/HIM198?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/JetAwvs">
+    <img src="https://badges.strrl.dev/years/JetAwvs?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/HIM198?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/HIM198?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/JetAwvs?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/JetAwvs?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/HIM198">
-    <img src="https://badges.strrl.dev/gists/HIM198?style=flat-square&color=black&logo=github">
+  <a href="https://gist.github.com/JetAwvs">
+    <img src="https://badges.strrl.dev/gists/JetAwvs?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/HIM198">
-    <img src="https://badges.strrl.dev/commits/monthly/HIM198?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/JetAwvs">
+    <img src="https://badges.strrl.dev/commits/monthly/JetAwvs?style=flat-square&color=black&logo=github">
   </a>
 </p>
  
