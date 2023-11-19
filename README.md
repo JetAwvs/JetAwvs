@@ -90,8 +90,8 @@
 * <a href='https://blog.csdn.net/Inosuke_?spm=1000.2115.3001.5343' target='_blank'>empty</a> - 2023-05-21
 * <a href='https://blog.csdn.net/Inosuke_?spm=1000.2115.3001.5343' target='_blank'>empty</a> - 2023-05-21
 * <a href='https://blog.csdn.net/Inosuke_?spm=1000.2115.3001.5343' target='_blank'>empty</a> - 2023-05-21
-* <a href='https://www.zhihu.com/people/xiaohubro' target='_blank'>empty</a> - 2023-05-21
-* <a href='https://www.zhihu.com/people/xiaohubro' target='_blank'>empty</a> - 2023-05-20
+* <a href='https://blog.csdn.net/Inosuke_?spm=1000.2115.3001.5343' target='_blank'>empty</a> - 2023-05-21
+* <a href='https://blog.csdn.net/Inosuke_?spm=1000.2115.3001.5343' target='_blank'>empty</a> - 2023-05-20
 <!-- END_SECTION:brain -->
  
 </td></tr>
