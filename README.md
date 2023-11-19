@@ -15,7 +15,7 @@
   1. empty
   2. empty
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN]
-- 💬 Be free to ask me about anything [here](https://github.com/HIM198/HIM198/issues).
+- 💬 Be free to ask me about anything [here]([https://github.com/HIM198/HIM198/issues](https://github.com/issues)).
  
 ---
 </details>
@@ -28,10 +28,10 @@
 <br>
  
 <p align="center">
-  <a href="[https://github.com/HIM198](https://github.com/JetAwvs)" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=HIM198&title_color=333&text_color=777" alt="HIM198's Stats" >
+  <a href="[https://github.com/JetAwvs](https://github.com/JetAwvs)" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=JetAwvs&title_color=333&text_color=777" alt="JetAwvs's Stats" >
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=HIM198&hide=issues&title_color=333&text_color=777" alt="HIM198's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=JetAwvs&hide=issues&title_color=333&text_color=777" alt="JetAwvs's Stats" >
     -->
   </a>
 </p>
